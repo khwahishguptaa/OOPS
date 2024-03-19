@@ -5,3 +5,22 @@ GIT
 3.git config --global user.email "khwahishgupta11@gmail.com"
 
 (these three commands are used to set our name and email so that other members can see who changed the code)
+
+
+
+we  can open git bash in any particular folder
+
+1.git status 
+it is used to tell wheather the given folder is a git repositry or not
+if it is not git init is used
+
+
+after this when we again give the command git status it tells the files are untracked it reffers to wheather we modify or delete any file the git will not be able to get information about this
+
+now we have to track the files so there are two options suppose our file contains many files but we dont want that all the files got tracked so we can use the command
+
+git add file name.txt
+
+if we want all file got tracked than git add .
+
+commit means now our file are ready to go in the remote repositry of git
