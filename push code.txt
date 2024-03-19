@@ -1,0 +1,4 @@
+Now we see how to push the code in repositry
+1.git remote add origin   (here is the link)
+2.git remote
+3.git remote -u origin master
