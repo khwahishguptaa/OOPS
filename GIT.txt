@@ -1,0 +1,7 @@
+GIT
+
+1.git config --list
+2. git config --global user.name "khwahish"
+3.git config --global user.email "khwahishgupta11@gmail.com"
+
+(these three commands are used to set our name and email so that other members can see who changed the code)
